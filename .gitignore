@@ -3,3 +3,8 @@ wp-content/languages/
 wp-content/plugins/
 wp-content/uploads/
 wp-content/upgrade/
+*.json
+*.png
+*.jpg
+*.svg
+*.gif
