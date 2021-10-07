@@ -4,6 +4,14 @@
 //例：<script type="text/javascript">解析コード</script>
 ?>
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script>
+    // MathJaxの設定
+    MathJax = {
+        tex: {
+                tags:'all'
+        }
+    };
+</script>
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
 <!-- <script async custom-element="amp-ad" src="https://cdn.ampproject.org/v0/amp-ad-0.1.js"></script> -->

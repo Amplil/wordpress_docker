@@ -2,13 +2,6 @@
 //このJavaScriptファイルは、親テーマのJavaScriptファイルのあとに呼び出されます。
 //JavaScriptやjQueryで親テーマのjavascript.jsに加えて関数を記入したい時に使用します。
 
-// MathJaxの設定
-MathJax = {
-	tex: {
-			tags:'all'
-	}
-};
-
 // 目次の現在位置ハイライト
 const GAP     = -50;
 const CLSNAME = "current" //cssと対応
